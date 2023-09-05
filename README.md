@@ -20,12 +20,11 @@ Due to the involvement of subsequent paper work, only the core code has been ope
  # Requirements
   
   * PyTorch
-  * NumPy
   * Matplotlib
-  * pandas
-  * numpy
-  * time
-  * os
+  * Pandas
+  * Numpy
+  * Time
+  * OS
   * et al.
   
  # Example Dataset
