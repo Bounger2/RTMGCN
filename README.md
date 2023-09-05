@@ -29,7 +29,7 @@ Due to the involvement of subsequent paper work, only the core code has been ope
   * et al.
   
  # Example Dataset
- PeMS03,PeMS04,PeMS07,PeMS08 and SZ-taxi (flow, speed, occupancy, weather)
+ PeMS03,PeMS04,PeMS07,PeMS08 and SZ-taxi (flow, speed, occupancy, weather, news)
 
 # Acknowledgments
 We would like to thank the following individuals and organizations for their contributions to this project:
