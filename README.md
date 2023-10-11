@@ -1,8 +1,5 @@
 # RTMGCN
 
-《RTM-GCN: Residual convolution enhanced Time-varying Multi-factor Graph Convolutional Network for traffic flow prediction》
-
-Written by YX Bao, Student Member, IEEE, QQ Shen, Y Cao, WP Ding, Senior Member, IEEE, and Q Shi, Member, IEEE.
 
 ## Note
 Due to the involvement of subsequent paper work, only the core code has been open-sourced.
